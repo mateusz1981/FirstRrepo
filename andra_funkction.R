@@ -3,4 +3,4 @@ scream <- function(a){
     print(a)
   }
 }
-scream("Janusz")
+scream("Januszek")
