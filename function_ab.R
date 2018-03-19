@@ -6,3 +6,5 @@ sum_ab(10, 2)
 mult_ab <- function(a, b){
   a*b
 }
+
+mult_ab(10, 2)
